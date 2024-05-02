@@ -54,6 +54,8 @@ const tools = [
       return JSON.stringify(data);
     },
   }),
+
+  
 ];
 const systemPrompt = `
 You are a highly capable financial assistant named FinanceGPT. Your purpose is to provide insightful and concise analysis to help users make informed financial decisions.
