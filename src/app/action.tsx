@@ -11,6 +11,7 @@ import { Chart } from "@/components/llm/Chart";
 import FunctionCallBadge from "@/components/llm/fcall";
 import { Financials } from "@/components/llm/financials";
 
+
 async function submitUserMessage(content: string) {
   "use server";
 
